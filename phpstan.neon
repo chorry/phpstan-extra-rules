@@ -1,0 +1,5 @@
+services:
+	-
+		class: chr\Rules\Comparison\CompareUnequalVariablesRule
+		tags:
+			- phpstan.rules.rule
