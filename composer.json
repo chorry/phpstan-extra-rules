@@ -1,5 +1,6 @@
 {
     "name": "chorry/phpstan-extra-rules",
+    "description": "set of extra rules for php static analyzer",
     "type": "library",
     "require": {
         "php": "^7.1",
